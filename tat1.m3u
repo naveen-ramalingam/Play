@@ -1,1110 +1,378 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=w88YUI7TV8eFcdRv5HwiSQ:+SvZV1JQiWulCeH5L9FMRw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vv6fkRLAktVJ35rcwXGpWw","kid":"D2+HNLmYUYqhlZSOh+cS+g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="TATAPLAY",INDIA_TODAY-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=P8B7eEe4XrKdECms16Gp+w:H9kj8Ypu8vI3dHFlFy6bqg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"H9kj8Ypu8vI3dHFlFy6bqg","kid":"P8B7eEe4XrKdECms16Gp+w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="6" tvg-logo="" group-title="TATAPLAY",News18_Gujarati-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce0IGGPxWTeM9HcBFvSsJQ:HYJQI7qcs06GIcsBC9LCiw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HYJQI7qcs06GIcsBC9LCiw","kid":"ce0IGGPxWTeM9HcBFvSsJQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="7" tvg-logo="" group-title="TATAPLAY",B4U_Movies-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=7
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=774dcM7PU1mZhPdghN7Csg:YBqzgWqcRRqatH5M6OVciA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xr8Jt3H5Fk2lxCTu3G1jbg","kid":"agk3JH/8WtOWAP7ykLiPag"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="8" tvg-logo="" group-title="TATAPLAY",Star_Plus_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=la4Wm7YRW3uDm8PQHQQqug:kBti0Gi5HOX80wlROQn+hA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kBti0Gi5HOX80wlROQn+hA","kid":"la4Wm7YRW3uDm8PQHQQqug"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="9" tvg-logo="" group-title="TATAPLAY",B4U_Music-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=9
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=scsbw5MQV7iOpyAqc4vtNw:S3Ps2LxowasxyvYZKeOOHw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"S3Ps2LxowasxyvYZKeOOHw","kid":"scsbw5MQV7iOpyAqc4vtNw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="10" tvg-logo="" group-title="TATAPLAY",Flowers-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=10
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=l0++QTSNV/C/6XdR0Dnuog:4gbu/gReksf3IDhWNb0PsA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4gbu/gReksf3IDhWNb0PsA","kid":"l0++QTSNV/C/6XdR0Dnuog"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="11" tvg-logo="" group-title="TATAPLAY",TV9_Telugu-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=11
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=QNljmuTEXjyhnJmYwX/MAw:66SqThu8tV9EDYRh8qfp9g
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"66SqThu8tV9EDYRh8qfp9g","kid":"QNljmuTEXjyhnJmYwX/MAw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="12" tvg-logo="" group-title="TATAPLAY",Big_Ganga-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=12
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=piaOiSuwXc+JfxLMIWAmwg:p2Y15zaPI/AcWN+9bn5lvQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"p2Y15zaPI/AcWN+9bn5lvQ","kid":"piaOiSuwXc+JfxLMIWAmwg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="13" tvg-logo="" group-title="TATAPLAY",India_News_Haryana-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=13
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9D0FukOjVgWVxo/SiTzp3Q:9unDdYov66VKqaEYotvauA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9unDdYov66VKqaEYotvauA","kid":"9D0FukOjVgWVxo/SiTzp3Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="14" tvg-logo="" group-title="TATAPLAY",India_News_Rajasthan-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=14
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=pEHWK4kqVbKsf39mUqtHiQ:T7bBFzidGK8VmKVCr0oRqQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zq6IAYLnWjxwBbSFirNPUA","kid":"BY8EmyjcVoSyCjQ3hZ9Uvw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="15" tvg-logo="" group-title="TATAPLAY",Set_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=15
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Vm3zZWfFWDSz71eiB3EJQg:z3/d1YrIGRI0QRSsck40tw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"z3/d1YrIGRI0QRSsck40tw","kid":"Vm3zZWfFWDSz71eiB3EJQg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="17" tvg-logo="" group-title="TATAPLAY",Mastiii-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=17
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=GAwhpaopUvC8Czy7CkoYyA:jOhags4Mp1H9qKhW0GvWIQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kRvtszVHzQM+Y67fT8Mspw","kid":"ExwaXvU/Uy2CkiyDAC7NCQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="20" tvg-logo="" group-title="TATAPLAY",Zee_Bihar_Jharkhand-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=20
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dXTZAH+pV3mrTfr2ecg+DQ:qd8iLbWXmW5HiP1+I4Cs6w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qd8iLbWXmW5HiP1+I4Cs6w","kid":"dXTZAH+pV3mrTfr2ecg+DQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="23" tvg-logo="" group-title="TATAPLAY",News18_Bangla-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=23
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=mDk6/fa5WT+yT4TyqpG6IA:MDEqN3Sn5AOs0pCqeKDI1Q
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t6hduqmVCn6nVkeS3RCHCQ","kid":"cim8lND3XWSTOdePzH/0IA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="24" tvg-logo="" group-title="TATAPLAY",Star_Sports_1_Hindi_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=24
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=yx68kaS/VGuZQL7xVtN1mg:gjL+UaQd/bn5VKjXW5wRHw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gjL+UaQd/bn5VKjXW5wRHw","kid":"yx68kaS/VGuZQL7xVtN1mg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="25" tvg-logo="" group-title="TATAPLAY",Kairali_TV-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=25
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=lPqw1uSLUJi2iYXeoj/KaA:F5BTqyo4Y/jgDF1MK57F7w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F5BTqyo4Y/jgDF1MK57F7w","kid":"lPqw1uSLUJi2iYXeoj/KaA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="27" tvg-logo="" group-title="TATAPLAY",IBC_24-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=27
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ReR7H2mVUyeThvOXUGY/Eg:eRBdSF8WAEFfSMAt01d7qw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eRBdSF8WAEFfSMAt01d7qw","kid":"ReR7H2mVUyeThvOXUGY/Eg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="30" tvg-logo="" group-title="TATAPLAY",India_News_UP_UK-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=30
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=zi5j6llFVW2wcTx9a1BNQg:TtgKgOBGgjAATMI+6kXShw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nJF4TMksTVeXq92qdfSaJQ","kid":"X3/W7MmjVyuXjje9/uFd/w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="32" tvg-logo="" group-title="TATAPLAY",Sony_Pix_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=32
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=czn0DfVHW3iIWftmiG1S0w:ago5q+1bQ031z9c/41dnsw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ago5q+1bQ031z9c/41dnsw","kid":"czn0DfVHW3iIWftmiG1S0w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="33" tvg-logo="" group-title="TATAPLAY",Public_TV-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=33
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=KtQ+RdlUW6Gcx+09lR2vFg:ytS6m+0n0uYVB2q25m3fkw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fFFCgiZOXl+ftVaZHd5Yyg","kid":"CKcg2voyVaWLAj+oFR2dbw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="34" tvg-logo="" group-title="TATAPLAY",SONY_Aath-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=34
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=+ANP1MSuUJKbFds64K9VAg:AuS+mt5qIXzOyLycKJ+DVw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AuS+mt5qIXzOyLycKJ+DVw","kid":"+ANP1MSuUJKbFds64K9VAg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="35" tvg-logo="" group-title="TATAPLAY",SONY_SIX_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=35
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=QMHPehunWWCPia+yjicZOA:F66M4dizq+YfQg0/F9aF7Q
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F66M4dizq+YfQg0/F9aF7Q","kid":"QMHPehunWWCPia+yjicZOA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="37" tvg-logo="" group-title="TATAPLAY",Mega_TV-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=37
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ivCxTbAjVF+NSYjHgkEClw:8vQElOH0ef3ehu4FLdiJ/w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"8vQElOH0ef3ehu4FLdiJ/w","kid":"ivCxTbAjVF+NSYjHgkEClw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="38" tvg-logo="" group-title="TATAPLAY",Aastha-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=38
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Wyz/PeWJVjiYMpuNw8209g:pNEX0Oq2VyQ0xl9YBsqMVA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pNEX0Oq2VyQ0xl9YBsqMVA","kid":"Wyz/PeWJVjiYMpuNw8209g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="39" tvg-logo="" group-title="TATAPLAY",9X_Jalwa-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=39
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=v9/7/6jPUwmgsnxD/BSLig:69Gbhd2mo2N0zw18QR7XRQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/lkSHZhNZql535dygwOnqg","kid":"1SitX09oV9itXr0P1GVJVw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="40" tvg-logo="" group-title="TATAPLAY",AndTV_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=40
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=mZ0zgBtuXVqPv4+4m0C58Q:q1EtAwpIYuvZfwkWRdzU2g
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"q1EtAwpIYuvZfwkWRdzU2g","kid":"mZ0zgBtuXVqPv4+4m0C58Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="41" tvg-logo="" group-title="TATAPLAY",News18_Odia-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=41
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=iMuQskdEXKmqVmO0oimaKg:9MsNmZ0cs+FsiKGjmebsyg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KRY7+hPbAW6mjQCgqpRVvA","kid":"MtFVPMT6UauFaofqW17PWw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="44" tvg-logo="" group-title="TATAPLAY",Seithigal_TV-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=44
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=MWIYIZjRXB6Usp9PyLkWEQ:A5MHokJwKJB4SzuKcVmEJQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BG1evGA7AuelEaQduNxdhA","kid":"PHZ/ooxrUPWgQReEsINUsA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="45" tvg-logo="" group-title="TATAPLAY",Sony_yay-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=45
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=WwyFI+7GWaa+N6MRha+phg:OROtuP5SyTrlTf/0YZ7Tcg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gde+97EpsjPGV8/vk+ns1g","kid":"EmFuk9H+UfCDkaGES3D1Tw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="47" tvg-logo="" group-title="TATAPLAY",Jonack_TV-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=47
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=oI1p7ekQW1qc8ARSVeqo0A:6alY/S+6x0ltBwvjI4dKMA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FahXkx4XBZS0IF29W0KLQA","kid":"/E6mHwtxW8e3bAmZnyUq3w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="48" tvg-logo="" group-title="TATAPLAY",Sony_SAB_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=48
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=LakmYgQ/VcqEIA60L+1CDA:I/iF1UW2awFTyUwpQ8xU2w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"I/iF1UW2awFTyUwpQ8xU2w","kid":"LakmYgQ/VcqEIA60L+1CDA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="49" tvg-logo="" group-title="TATAPLAY",T_News-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=49
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cprUPhZoW+uCan19ibxPQA:try6UsTVerACRunUUsxYVw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"try6UsTVerACRunUUsxYVw","kid":"cprUPhZoW+uCan19ibxPQA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="51" tvg-logo="" group-title="TATAPLAY",Dangal-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=51
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7KpmJF2TXG2eN1FdIq7v7g:hY6T+Fhenme13IGl6LN3VA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BbYAbzRHY1aBwxcJ4XU0YQ","kid":"peo8cWbBWuS3lU/yEILOdw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="52" tvg-logo="" group-title="TATAPLAY",Colors_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=52
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cF4b6SmTVIubzOb3DhVUFQ:rjnI+tBzW46GQtdkojypaQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OVzmmXXb306uKmZTpNtwqg","kid":"7xps285OX0COaa9lX0cdpw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="53" tvg-logo="" group-title="TATAPLAY",Colors_Cineplex-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=53
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=yrFmYzPJUU2WtqoiQ7kD3g:dYVZwYIIT2R2dx55PAiCqw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dYVZwYIIT2R2dx55PAiCqw","kid":"yrFmYzPJUU2WtqoiQ7kD3g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="54" tvg-logo="" group-title="TATAPLAY",The_Q-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=54
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=XUWt/TmXWnGiNm5dKZ+w+Q:HXUR5iB8eXbyvbX1YkpdKw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GcS2BeOuxgLxbcK8d6tJCw","kid":"JPS8AhyTUs6dZj013V/FFQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="55" tvg-logo="" group-title="TATAPLAY",TravelXP-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=55
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5mn/sCBtWxqL6q/us4ehjw:0+bi1SbnKlE4+RACtcFq5w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+TZPOxJMMbr/9AEuY6bbDA","kid":"cTl6sn7jUIKCRz/nPNpcbg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="56" tvg-logo="" group-title="TATAPLAY",SONY_Wah-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=56
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3YC71na2XHmzkfte9z+90w:WdCPsw9e9pHtsV65K52R7w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WdCPsw9e9pHtsV65K52R7w","kid":"3YC71na2XHmzkfte9z+90w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="58" tvg-logo="" group-title="TATAPLAY",News18_Tamil_Nadu-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=58
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Xf92H1yzUTOcOr4INijf8w:duWFeqYyburSK9VVYgGCEQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Pp7gfhtVf58+IoF4Nogr/g","kid":"CBLaW3dvVZedo0+slKHynA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="60" tvg-logo="" group-title="TATAPLAY",DW-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=60
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=TTv3EmI3W1WkKO4l90bfgA:HfzU4WepTVwg+UO58E/JEw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ficbxziPZ+ikKl1MqelI2w","kid":"uFVKbmd9XS289XKuK2LDWg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="61" tvg-logo="" group-title="TATAPLAY",Colors_Cineplex_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=61
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=nrjrcBjEUSueLoyTguoSeg:8ip5NonPxZkIeRXWGpPoXg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"LUvNTqvcVcI2ABf/RVgsxw","kid":"a4BwBNQcXkKVfgkN5Eh8Ug"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="63" tvg-logo="" group-title="TATAPLAY",Zee_TV_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=63
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=InCFYrH3Wi+JXQi+GssJrg:HGuHAArEei5nsxt8vGURQQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HGuHAArEei5nsxt8vGURQQ","kid":"InCFYrH3Wi+JXQi+GssJrg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="66" tvg-logo="" group-title="TATAPLAY",News18_Kerala-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=66
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5TFJXpw7U4y1KFJGaaSp3w:z0OUGwKDMMlAKaiy9frT0A
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"z0OUGwKDMMlAKaiy9frT0A","kid":"5TFJXpw7U4y1KFJGaaSp3w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="68" tvg-logo="" group-title="TATAPLAY",News18_Assam_North_East-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=68
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kYo9rTXMXrOxYFok41KWCA:Ehnbs1QpuaqesfrdMj0A6w
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ehnbs1QpuaqesfrdMj0A6w","kid":"kYo9rTXMXrOxYFok41KWCA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="71" tvg-logo="" group-title="TATAPLAY",Tata_Play_English_in_Hindi-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=71
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=hGa51mz6V3uZPuOSvSLiXQ:kfaXOj1HfGqlucB41eChIg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kfaXOj1HfGqlucB41eChIg","kid":"hGa51mz6V3uZPuOSvSLiXQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="73" tvg-logo="" group-title="TATAPLAY",ABP_Asmita-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=73
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1L7NKJlIUKSazoTVo2LNbQ:35p+9GeGRBA5r7L/gsxo8Q
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"csmW+KXuezfgWrL8LwTdEQ","kid":"MRR7QuMfWNOJuolalnfOPw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="78" tvg-logo="" group-title="TATAPLAY",Star_Sports_1_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=78
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=vH9Vy8R8WZq6cG6jF9FWQQ:F4Rh9U8CKr8gIros8Dk/3g
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"F4Rh9U8CKr8gIros8Dk/3g","kid":"vH9Vy8R8WZq6cG6jF9FWQQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="79" tvg-logo="" group-title="TATAPLAY",News18_Uttar_Pradesh_Uttarakhand-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=79
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kKfwDvveV9+qzpXniDE0DQ:Uiq53nKFlhsAsGCswb0hKQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Ej6SnVPRTyBsm77hyU5gUA","kid":"VN/Mi5LXWNan9IzjRp6U2g"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="80" tvg-logo="" group-title="TATAPLAY",SONY_MAX_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=80
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26HBIFg5VxanOYD5SsL/OA:rxoT4twHkRArJuNNV8Tytg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rxoT4twHkRArJuNNV8Tytg","kid":"26HBIFg5VxanOYD5SsL/OA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="81" tvg-logo="" group-title="TATAPLAY",SONY_TEN1_HD-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=81
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=V26ghl0PV7aLC8WpgGfRzA:QdkEQ3wy1C99Cs0n0UVLTA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QdkEQ3wy1C99Cs0n0UVLTA","kid":"V26ghl0PV7aLC8WpgGfRzA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="83" tvg-logo="" group-title="TATAPLAY",ETV_Telengana-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=83
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=jBonjNeaVuOTX6cOvbjdNA:MYtGuY0YvLVoopFsomNOsA
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MYtGuY0YvLVoopFsomNOsA","kid":"jBonjNeaVuOTX6cOvbjdNA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="85" tvg-logo="" group-title="TATAPLAY",News18_Kannada-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=85
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Y0yTD/+iUz+lmmFFeq+dUQ:GqI2KWR232in8lH22iKt1Q
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GqI2KWR232in8lH22iKt1Q","kid":"Y0yTD/+iUz+lmmFFeq+dUQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="87" tvg-logo="" group-title="TATAPLAY",Manorama_News-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=87
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=qBD6A53NWbKFgjbVVDcK/Q:7M43ocqfMaiKYlaziPXrVQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"7M43ocqfMaiKYlaziPXrVQ","kid":"qBD6A53NWbKFgjbVVDcK/Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="88" tvg-logo="" group-title="TATAPLAY",ET_Now-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=88
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=EvSGp1MLXeqM5puImGGx1A:sOox0aFtdPaiJY6UF1qtcg
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"GMff8EzPKC9fDN7hiRryMw","kid":"08IK9c5dXSSL7Fi62xUt/w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="90" tvg-logo="" group-title="TATAPLAY",TIMES_NOW-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=90
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=R7XTeuZBWFCdc9XLyOLY6Q:JTeEIO/hpQeNhMKl972qew
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JTeEIO/hpQeNhMKl972qew","kid":"R7XTeuZBWFCdc9XLyOLY6Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="91" tvg-logo="" group-title="TATAPLAY",PTC_News-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=91
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7W9k8AiwViOf4Hg+d8hrXg:Vcc3ZvtwnJiqqYtUbTzzng
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vcc3ZvtwnJiqqYtUbTzzng","kid":"7W9k8AiwViOf4Hg+d8hrXg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="92" tvg-logo="" group-title="TATAPLAY",PTC_Chak_De-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=92
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kO8gszNdUA+h3UUVZGSXDw:BzjTkFGGsUda823NAFpb+A
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Jiy+Qskk3R7SJRuCQxW/vQ","kid":"g6lQT0x1VFS3FTnflDjNNA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="93" tvg-logo="" group-title="TATAPLAY",NDTV_Profit_Prime-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=93
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ybAseEQ6XoarAC/usGI2zA:mvbTUPWal+BcajWJpjSjzQ
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mvbTUPWal+BcajWJpjSjzQ","kid":"ybAseEQ6XoarAC/usGI2zA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="95" tvg-logo="" group-title="TATAPLAY",Tata_Play_Javed_Akhtar-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=95
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=hMEOwswPUjCgIJunUQajcg:+2wzL9aTTwE3yntR/AFx6A
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+2wzL9aTTwE3yntR/AFx6A","kid":"hMEOwswPUjCgIJunUQajcg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="96" tvg-logo="" group-title="TATAPLAY",Zoom-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=96
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=mBu8wG2nXF6MF6riJh6EWg:oyxIC5PXf62Tfi8a7L+D2g
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oyxIC5PXf62Tfi8a7L+D2g","kid":"mBu8wG2nXF6MF6riJh6EWg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="97" tvg-logo="" group-title="TATAPLAY",TV9_Marathi-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=97
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9AZmryXkWbqQlEFn1de29A:jZokFaHpN3ktKWMrkM38Nw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jZokFaHpN3ktKWMrkM38Nw","kid":"9AZmryXkWbqQlEFn1de29A"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="99" tvg-logo="" group-title="TATAPLAY",D_Tamil-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=99
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4/3eKJplW3O7tuba6GcOWg:11RCpe299g/8IaljSzyzLw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"11RCpe299g/8IaljSzyzLw","kid":"4/3eKJplW3O7tuba6GcOWg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="TATAPLAY",Zee_Action-$RepresentationID$-$Number$.m4s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=100
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=/tROVWA6XKuWQ3M12aRuHw:siNttIaCD9R/US3lqXfFig
-#EXTINF:-1 tvg-id="101" tvg-logo="" group-title="TATAPLAY",Rang-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=101
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=uJLEPJcXXq6uZo+P24bWVg:mxqeXzwAAZBFWRADBydwqw
-#EXTINF:-1 tvg-id="102" tvg-logo="" group-title="TATAPLAY",ABP_Ananda-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=102
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0BmlLMhdX9CYZ0yKcRGKKw:koVYHpKNMhrQFOhTagWOng
-#EXTINF:-1 tvg-id="105" tvg-logo="" group-title="TATAPLAY",Australia_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=105
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34Th1hVBUlG9fu9vWGSaew:QnyWGwO8hmRCKDU7zAXf2w
-#EXTINF:-1 tvg-id="106" tvg-logo="" group-title="TATAPLAY",News18_India-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=106
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=u3HtWVubXNGB2L9uV1QPfw:y+1YQv3z8oTx5+h9n+ONmw
-#EXTINF:-1 tvg-id="107" tvg-logo="" group-title="TATAPLAY",Colors_Gujarati-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=107
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=XHPDp/3KWh2ja9TvU9vJTQ:qYw8JLbxm2BGXMOYr+9A8A
-#EXTINF:-1 tvg-id="108" tvg-logo="" group-title="TATAPLAY",Colors_Kannada-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=108
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=vPss9vmfVo2gFMxrLqzr6w:42jOlNyrCdLUpEGRvoXi+w
-#EXTINF:-1 tvg-id="111" tvg-logo="" group-title="TATAPLAY",Tata_Play_Smart_Manager-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=111
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=SYZA6OXfW1mr9w92Ea2TJg:O9A0dSECPOfjAWZl3kfT0g
-#EXTINF:-1 tvg-id="113" tvg-logo="" group-title="TATAPLAY",Discovery_Science-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=113
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1kpPmjNOUh+w8ZCCtXcQ7Q:eaw83HWf5u/1duYF5LNPkQ
-#EXTINF:-1 tvg-id="114" tvg-logo="" group-title="TATAPLAY",Disney_Channel-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=114
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=UWpHEnBpXZGhbzY8HNGFHA:j+pBPg5c6fyZ6FC3aI5ShQ
-#EXTINF:-1 tvg-id="115" tvg-logo="" group-title="TATAPLAY",Colors_Oriya-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=115
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NnUPkdl7VMCnaNDuxvJR+g:g6BAExEd4QYNQYmKIlFd/g
-#EXTINF:-1 tvg-id="117" tvg-logo="" group-title="TATAPLAY",Food_Food-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=117
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ZvLYXo8nVXi/7AwjjCjeAw:gf7bUt3RehhE87dfnnugDQ
-#EXTINF:-1 tvg-id="118" tvg-logo="" group-title="TATAPLAY",Nick_Jr-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=118
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=xc1NT1N+Unq3oQJAZYTKMg:HVwhjcIqgzL+0Bm5zYQaPQ
-#EXTINF:-1 tvg-id="119" tvg-logo="" group-title="TATAPLAY",DISCOVERY_KIDS-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=119
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2uuOlbaTUoOByYU/GF+jhQ:0Zmohvr1dubNWe4weyX5Ow
-#EXTINF:-1 tvg-id="120" tvg-logo="" group-title="TATAPLAY",SONY_MAX_2-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=120
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=zGp8MtUvWs2/a3uapZH+jA:BBDoQUYh9EbuOay78y0Eog
-#EXTINF:-1 tvg-id="121" tvg-logo="" group-title="TATAPLAY",Tata_Play_Fitness-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=121
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=wT8DJ5DUXLSNKGC5SznsYA:MUzi1OBGFVjkivwp8A3Tpw
-#EXTINF:-1 tvg-id="122" tvg-logo="" group-title="TATAPLAY",PTC_Punjabi-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=122
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=BAiKKxjgUjiKMMHCmI86mQ:w5WAuJwcSy7lEsSFb7v/jQ
-#EXTINF:-1 tvg-id="126" tvg-logo="" group-title="TATAPLAY",Epic-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=126
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=xpnvDyUqV6WenxG+gbFBxQ:rYOxDihryfNBER/6H+EQ/w
-#EXTINF:-1 tvg-id="127" tvg-logo="" group-title="TATAPLAY",Sonic_Nickelodeon-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=127
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=l9epwrcPVeGl/88qAAn4qA:M2gHyqPA9LGIAFzA3PBqAQ
-#EXTINF:-1 tvg-id="128" tvg-logo="" group-title="TATAPLAY",Etv_Cinema-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=128
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=jAjjHHs3W7S16y1SchGGig:MnJYxzCAS/al3cjHQtZDNA
-#EXTINF:-1 tvg-id="130" tvg-logo="" group-title="TATAPLAY",Animal_Planet-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=130
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=OzA8uzOaUUSwRFjKa9wsOg:0K/aFywbOCmEeWaRjGRhhQ
-#EXTINF:-1 tvg-id="132" tvg-logo="" group-title="TATAPLAY",SONY_Max-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=132
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Jty4JV5lXR+9jDB3EjMmfw:bqnIE3AvL++InfUdNXs9PA
-#EXTINF:-1 tvg-id="134" tvg-logo="" group-title="TATAPLAY",Colors_Marathi-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=134
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Gss/04JVXoCDRDRGW6fong:dDa+sdV+xUNtuxATcqMkHQ
-#EXTINF:-1 tvg-id="135" tvg-logo="" group-title="TATAPLAY",TLC-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=135
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=y67Xp4XLXUe8bnCNE1PZBQ:56D0lQDOf9zSgIbhrvhTiw
-#EXTINF:-1 tvg-id="136" tvg-logo="" group-title="TATAPLAY",GOOD_TiMES-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=136
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=IoOdxYdwXWiDI5qQt0L8bQ:AM40/mKdGOn6jiBAtEZ9qQ
-#EXTINF:-1 tvg-id="137" tvg-logo="" group-title="TATAPLAY",National_Geographic-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=137
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=EDOBB3RvUMaW/LIWNZZQNw:8CUJugABp9dBF97X5+teXw
-#EXTINF:-1 tvg-id="138" tvg-logo="" group-title="TATAPLAY",Nick-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=138
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=OYS9+xRTVb+nyK6DqztHTQ:CLwmNbGyyWZ5cQf7bASfpA
-#EXTINF:-1 tvg-id="139" tvg-logo="" group-title="TATAPLAY",9XM-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=139
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=swiK5wbXVxKS5rNGMGAO3w:7WV6Dips3KDdB64UfAb1rg
-#EXTINF:-1 tvg-id="140" tvg-logo="" group-title="TATAPLAY",News18_Lokmat-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=140
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=PAgMm9Z4Ud6sCtgFbgH36g:PL8uy4Ijg8yzDsXPZHivwg
-#EXTINF:-1 tvg-id="142" tvg-logo="" group-title="TATAPLAY",UTV_Bindass-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=142
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eh6g8am2XNiCIpvUMjolJw:tDcoNArJAuKVCE5yUmTqJg
-#EXTINF:-1 tvg-id="144" tvg-logo="" group-title="TATAPLAY",Disney_Junior-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=144
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=r/1P1e1AWyKLdw8sopigRg:9loPmY9xkn62hJK334fejg
-#EXTINF:-1 tvg-id="145" tvg-logo="" group-title="TATAPLAY",ETV_Telugu-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=145
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=wY8fFDDAVDCZnOVx0XsBhg:wcJUgN4iej8NnGyHbuDVtA
-#EXTINF:-1 tvg-id="146" tvg-logo="" group-title="TATAPLAY",ETV_Andhra_Pradesh-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=146
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=/5KkCljkWI6XQo/SjR5uGw:Pv7CPAY7SB0eFjyx/KoGIA
-#EXTINF:-1 tvg-id="150" tvg-logo="" group-title="TATAPLAY",Sony_Ten1-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=150
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=KmPnxCq5VgeAnHhoN1ordw:rSOXDd04PQpkZc0A/rP7sg
-#EXTINF:-1 tvg-id="152" tvg-logo="" group-title="TATAPLAY",TV9_Kannada-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=152
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=pk5+rfPsWwO7cbCghyyDCw:hG4n3tPXSmlK5APcDEP7xQ
-#EXTINF:-1 tvg-id="153" tvg-logo="" group-title="TATAPLAY",Aaj_Tak-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=153
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=u6UbF7HgU02ZjaRduujv7g:TvU7nmFr7smf6mdyJwduRA
-#EXTINF:-1 tvg-id="155" tvg-logo="" group-title="TATAPLAY",ABP_Majha-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=155
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=/6LWH8g8VQahyTr5AZziIw:OVOuF3pd+7Wg9r+H+lpgwg
-#EXTINF:-1 tvg-id="157" tvg-logo="" group-title="TATAPLAY",Channel_News_Asia-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=157
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bj14keEpVWmbPRTUiaJIeQ:3uYCGmBhM8+Ru4kYxP8EFw
-#EXTINF:-1 tvg-id="158" tvg-logo="" group-title="TATAPLAY",Sony_BBC_EARTH-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=158
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=nQdnfE2SVKykjbqXB8re2g:yCAIkRLAJ/IFstFgoYsqhA
-#EXTINF:-1 tvg-id="160" tvg-logo="" group-title="TATAPLAY",NTV_Telugu-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=160
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=qvh8U5RfXUyo3uXh1g5YPw:NC6RXYigJ8gHedrmXOaMNg
-#EXTINF:-1 tvg-id="166" tvg-logo="" group-title="TATAPLAY",News18_Bihar_Jharkhand-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=166
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ajpPJesnVbWk0EqzYbj0kA:hyjPUxn8i49BJjoZ/qfveQ
-#EXTINF:-1 tvg-id="167" tvg-logo="" group-title="TATAPLAY",Tata_Play_Vedic_Maths-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=167
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Ah47xknsUjCCtT6diMcwFw:S0Cu7Zl38s3BJsVGma/OOQ
-#EXTINF:-1 tvg-id="168" tvg-logo="" group-title="TATAPLAY",CNBC_TV18-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=168
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=tBsY6704UKK9ekgSmTuQwQ:cPWl8gDnYqlLvMqEprHqbw
-#EXTINF:-1 tvg-id="170" tvg-logo="" group-title="TATAPLAY",SONY-TEN2-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=170
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=jPEx/t9cWGCzcDt8wYO7jw:BhLGDrKp2165MC4RLzkrMw
-#EXTINF:-1 tvg-id="171" tvg-logo="" group-title="TATAPLAY",Sony-Ten3-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=171
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=qDua69VUUKy46iEiPprABQ:KFCtsywXt2GIPnypNuPYvg
-#EXTINF:-1 tvg-id="177" tvg-logo="" group-title="TATAPLAY",ABP-News-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=177
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=p/rqpayqUGaUHrVa8cBIZA:Gg1mGFzrZYXPdE/ZS7e5ow
-#EXTINF:-1 tvg-id="178" tvg-logo="" group-title="TATAPLAY",AMRITA_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=178
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=/Kk1qWVdWBimLK9jKnhjcw:yS68KLYTxGJQqLD/OHlMYg
-#EXTINF:-1 tvg-id="179" tvg-logo="" group-title="TATAPLAY",NDTV_INDIA-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=179
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kPx/orvvUqWuqIeFOBwthg:MxyqqNFNOXuTbX2RHfmUiA
-#EXTINF:-1 tvg-id="180" tvg-logo="" group-title="TATAPLAY",Anjan_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=180
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Hf5zIvMhVhenFm72nOB1ww:NnoZywkrMO6mxcToLWkCig
-#EXTINF:-1 tvg-id="181" tvg-logo="" group-title="TATAPLAY",Bhojpuri_Cinema-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=181
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=XFkKUCw6WwGYDof47ImPtw:iWwXvHR/qMl2fix18w/3lA
-#EXTINF:-1 tvg-id="184" tvg-logo="" group-title="TATAPLAY",Nat_Geo_Wild-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=184
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6bUxPYUFXeCk59zd2NF1KA:GQsxh83+gI3MiXwi/9t2Yg
-#EXTINF:-1 tvg-id="187" tvg-logo="" group-title="TATAPLAY",Colors_Infinity_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=187
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Ip6cfmJaVTm3m5aW6dKFLg:QN0aqg/xvESmbDlXGuCayw
-#EXTINF:-1 tvg-id="188" tvg-logo="" group-title="TATAPLAY",BBC_WORLD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=188
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NzlIzadmV72KkXiw2GwbAg:FATB8yvyFmUbklU792avPw
-#EXTINF:-1 tvg-id="190" tvg-logo="" group-title="TATAPLAY",Al_Jazeera-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=190
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Estbib/pVmC0GFmBvRA+HA:lI6y3kyHO9Qxbo5Laa7Ylw
-#EXTINF:-1 tvg-id="191" tvg-logo="" group-title="TATAPLAY",DD_National-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=191
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6DkWeRTGVliy8W5KdqCwzQ:mHU5X+EFl7G/IMn1aKag/Q
-#EXTINF:-1 tvg-id="192" tvg-logo="" group-title="TATAPLAY",Fakt_Marathi-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=192
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kBWhZ8FlVk2KpYk08I84iA:vCSxWlFib5YEehwKJ8ISlg
-#EXTINF:-1 tvg-id="193" tvg-logo="" group-title="TATAPLAY",Chardikla_Time_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=193
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=EzsktbJsUliz5YQyYf+flg:IZSBmrxx73w1s8/8dta4rA
-#EXTINF:-1 tvg-id="194" tvg-logo="" group-title="TATAPLAY",Dangal_2-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=194
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=q5jxwSpIUJSTCjA8X0Xnmg:ojTRoRlkBWPK3deFjPwHOQ
-#EXTINF:-1 tvg-id="198" tvg-logo="" group-title="TATAPLAY",Jaya_Plus-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=198
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=yD0DVbG6UPaJQk+gKa1muw:nXB1T+62r7IjdJ+cfITnmw
-#EXTINF:-1 tvg-id="199" tvg-logo="" group-title="TATAPLAY",Jaya_Max-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=199
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AKvut5JNV2SY9GNkH5+s8Q:tDeJgM/9Rn4fZODHtUi8nQ
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="TATAPLAY",Kalaignar_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=200
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=pXYEzkRsW6Gp37hnInalwg:Pxr8aOwhEpOR66wXQWvv6w
-#EXTINF:-1 tvg-id="201" tvg-logo="" group-title="TATAPLAY",J_Movies-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=201
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=FZDEgTi3XY6MeYsd2KcQeA:/ZQYgSLtom8TlxTBBq90QA
-#EXTINF:-1 tvg-id="203" tvg-logo="" group-title="TATAPLAY",ETV_MP-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=203
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=nF2HHMw8W/ePgHo/rSoIRQ:KYalPD6XkkgBCXeadOz4og
-#EXTINF:-1 tvg-id="204" tvg-logo="" group-title="TATAPLAY",CNBC_Awaaz-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=204
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=NkVwEuIzUeaGv+WWAeHAfw:BBpBUv3jK9eP9GgvkcpgTg
-#EXTINF:-1 tvg-id="205" tvg-logo="" group-title="TATAPLAY",News18_Rajasthan-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=205
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=yQCI/8FUUxufqNJwBSdnXg:m3h+WCK3YkpcbSUEHLaBVQ
-#EXTINF:-1 tvg-id="206" tvg-logo="" group-title="TATAPLAY",CNN_News18-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=206
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=HNWqYD3vWnWgpYE3q9niwQ:N2cc2bv2ENCUr99pz0utUg
-#EXTINF:-1 tvg-id="207" tvg-logo="" group-title="TATAPLAY",News_Time_Bangla-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=207
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eMktKJcTXG2hs+qaaGUtaA:tCTWZeW/1PPyY7lcOY6JjQ
-#EXTINF:-1 tvg-id="208" tvg-logo="" group-title="TATAPLAY",NDTV_24X7-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=208
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=C0DW6NoWUPCDXadAmosZFQ:3sVNub1WWMUl9/d6/ZLtDg
-#EXTINF:-1 tvg-id="209" tvg-logo="" group-title="TATAPLAY",News24-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=209
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=pTUW/0qhWjCOQRZZzZXhxA:JJMnUZbl7tymz/1wAI5a/A
-#EXTINF:-1 tvg-id="210" tvg-logo="" group-title="TATAPLAY",MN_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=210
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=I93M6d5VXqOVPOzCZrMuuw:+ymWOyYwVPKNplADswQUtw
-#EXTINF:-1 tvg-id="211" tvg-logo="" group-title="TATAPLAY",Kairali_News-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=211
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AAvQSzZjV6CmXpFm8x5rnA:cd0VsCjQs2XBqq5+JS893A
-#EXTINF:-1 tvg-id="212" tvg-logo="" group-title="TATAPLAY",Rajya_Sabha_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=212
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=XA7PC0Z4U5+58HPF7J9QFw:fLAt0k3FAgDpIS8qYryGOA
-#EXTINF:-1 tvg-id="213" tvg-logo="" group-title="TATAPLAY",SansadTV_1-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=213
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3WfSWwkKVLqCWukiXlGgcQ:MTJTqyr6KrlMP1qh1WT3bg
-#EXTINF:-1 tvg-id="214" tvg-logo="" group-title="TATAPLAY",Rengoni_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=214
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bZOS1qR0UWGwtKlJP31D4Q:buBQEGSHebcxm9XhoHRvZw
-#EXTINF:-1 tvg-id="215" tvg-logo="" group-title="TATAPLAY",Sangeet_Bangla-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=215
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=QzBMq5+lXW2Npyr+ZvP0/Q:Dxdpd9c1/tfstdtIRR7w2g
-#EXTINF:-1 tvg-id="217" tvg-logo="" group-title="TATAPLAY",Sangeet_Marathi-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=217
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ynUTsbg5VEKODliIo/1vfA:BD4h0xRZwmVNIMEEgeroJw
-#EXTINF:-1 tvg-id="219" tvg-logo="" group-title="TATAPLAY",Discovery-Channel-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=219
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0gBUE9dzVXWZ4bVtyGkolQ:uiKwjexzyWH65BUWyimJAQ
-#EXTINF:-1 tvg-id="220" tvg-logo="" group-title="TATAPLAY",Puthiya_Thalaimurai-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=220
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=KJkRB/jyXb2xZQ3NXJGokw:S0Dqeqn44EEsaJAUH8ZtxA
-#EXTINF:-1 tvg-id="221" tvg-logo="" group-title="TATAPLAY",protidin_time-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=221
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=C0N7a2NyUnOfLgWcg6NtPQ:LjRYRbjgsKEWP4YMAqrKqg
-#EXTINF:-1 tvg-id="222" tvg-logo="" group-title="TATAPLAY",India_News_MP_CH-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=222
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dH34ghZRWsC46iD3VVTjTQ:xuoi4dAGKW4euN+Bfn1emQ
-#EXTINF:-1 tvg-id="223" tvg-logo="" group-title="TATAPLAY",DD_Sports-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=223
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=JSaSZzzkX3C8rIHNSWoIGg:Qso1/QZiD6SM6VuMalolPw
-#EXTINF:-1 tvg-id="224" tvg-logo="" group-title="TATAPLAY",E24-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=224
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=i1RAbanNUhihuMyBiV21UA:QbjR7TMjIDEwV3gIhZrR3A
-#EXTINF:-1 tvg-id="225" tvg-logo="" group-title="TATAPLAY",ABN_Andhra_Jyothy-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=225
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=rcUZUDy3VA2d3EdjDVy1Jg:rQpGV+MoW0IkzT0gGPp5RA
-#EXTINF:-1 tvg-id="226" tvg-logo="" group-title="TATAPLAY",News_Live-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=226
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aEuWeqVYXQqnb/tbEc1MBQ:oeUHCfEpyiRzI6Ia5O6fgg
-#EXTINF:-1 tvg-id="227" tvg-logo="" group-title="TATAPLAY",Fashion_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=227
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=XNQrqMPvU2+xXezoBhEuXg:p3GhbkEYxwG86lq5lSPqQA
-#EXTINF:-1 tvg-id="228" tvg-logo="" group-title="TATAPLAY",Discovery_Turbo-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=228
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ch8KfymhV/mt185FIggnLw:yLhOB13CIOQGIQfWMsH02Q
-#EXTINF:-1 tvg-id="229" tvg-logo="" group-title="TATAPLAY",Surya_Movies-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=229
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=W1OpHduJVKO5CuiK68ov3Q:5ld0VpkGdWJ+5gU8wR0NyQ
-#EXTINF:-1 tvg-id="230" tvg-logo="" group-title="TATAPLAY",Surya_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=230
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=V+HOZijUUnGzj9CEAVJCXg:BO7e2rq2R/bIsFNzmt/m8g
-#EXTINF:-1 tvg-id="231" tvg-logo="" group-title="TATAPLAY",Udaya_Movies-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=231
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=TJYvgv8RWVaHsRzwXJKhWg:1GsulU2S5fbbYQoyu/Fdbw
-#EXTINF:-1 tvg-id="232" tvg-logo="" group-title="TATAPLAY",News18_Punjab_Haryana_Himachal-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=232
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=QuF7V1bTVRWR/sunG78fSw:3Iz3rIsaF1HfK2sRxHsu9A
-#EXTINF:-1 tvg-id="233" tvg-logo="" group-title="TATAPLAY",Jai_Maharashtra-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=233
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=uARXudWWUvKB4zfd41wnbQ:7ukgUOB8NEJAeGrvE++cGQ
-#EXTINF:-1 tvg-id="235" tvg-logo="" group-title="TATAPLAY",Star_Sports_2_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=235
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=i6nTh1SLX9yI8Eac6jxVKA:/vGag96o3I4hOdlmrbDSXQ
-#EXTINF:-1 tvg-id="238" tvg-logo="" group-title="TATAPLAY",Cartoon_Network-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=238
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=V3VBejVnVxizTX0EX2s/xQ:sWkPx0Ecuwx6QgVOVmQd3g
-#EXTINF:-1 tvg-id="239" tvg-logo="" group-title="TATAPLAY",Pogo-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=239
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=QlCb7vkMWfmS2VIkRejR2A:4tlzM2eKWA5cS/wJ5daRpA
-#EXTINF:-1 tvg-id="243" tvg-logo="" group-title="TATAPLAY",CNN-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=243
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=iVmzc7AeXI6h7lZlbKwygA:vyQJVmNm45u1DLxj1caCzQ
-#EXTINF:-1 tvg-id="244" tvg-logo="" group-title="TATAPLAY",STAR_BHARAT_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=244
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=nSAFRqIoUBqAWoT+20d8vw:jWZjh/Nam06w0J8gJRbKGQ
-#EXTINF:-1 tvg-id="245" tvg-logo="" group-title="TATAPLAY",Star_GOLD_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=245
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=tZLC3CMMVm6SYd0XTicRNg:7tybyQUwKGVzfwmNzQIEMg
-#EXTINF:-1 tvg-id="246" tvg-logo="" group-title="TATAPLAY",Star_Sports_Select_1_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=246
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9FQqGlBiXXKlbSI5TxP4UA:KPGIjTc9SS9GYDhi6+9p6Q
-#EXTINF:-1 tvg-id="248" tvg-logo="" group-title="TATAPLAY",Zee_Yuva-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=248
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=hGG5iaAlX2+DhOboEijR6g:gCGVc8+aOtjjIaiDcPnE3w
-#EXTINF:-1 tvg-id="255" tvg-logo="" group-title="TATAPLAY",WION-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=255
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fj2KwSXVXImjOJn5iH0npg:5t8PBnZZRRj6a2jcr8S0ug
-#EXTINF:-1 tvg-id="256" tvg-logo="" group-title="TATAPLAY",Zee_Kannada-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=256
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=kuwzSoMxV/K3UIb/9MbR1g:VlOLhhtagEeVEx/2lNNCjw
-#EXTINF:-1 tvg-id="258" tvg-logo="" group-title="TATAPLAY",Zee_24_Ghanta-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=258
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=pCQs22v7V3OgTqK6aj1MtQ:fS5z0eZ9xGotCXVv4jIHPg
-#EXTINF:-1 tvg-id="259" tvg-logo="" group-title="TATAPLAY",Zee_News-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=259
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69Gt+MZoUjC3SNcSnde2dw:GC8k8WZjTbvGBjZsapFaMw
-#EXTINF:-1 tvg-id="260" tvg-logo="" group-title="TATAPLAY",Zee_Business-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=260
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ujCchLqlW5St+5F1atAzXA:1m/llA8P2rTxyQd6PpdPeg
-#EXTINF:-1 tvg-id="261" tvg-logo="" group-title="TATAPLAY",Zee_24_Taas-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=261
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=H0AgyQUtUSiAjXUB9FJWvw:yNp8KauOUwMN4TqO9pQUWw
-#EXTINF:-1 tvg-id="262" tvg-logo="" group-title="TATAPLAY",Zee_Odisha-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=262
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4suHHCy1WBao6vv+5XJtQw:A2PVAdxdO/lLxy4ltOqFEQ
-#EXTINF:-1 tvg-id="267" tvg-logo="" group-title="TATAPLAY",And_Pictures_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=267
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=F7uuiKtIXLiADOWTQ7tMXQ:Ojy2xZy+Q9NXzT4A5NrdOA
-#EXTINF:-1 tvg-id="268" tvg-logo="" group-title="TATAPLAY",ETV_Life-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=268
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ofaZ4amcX3y0Xrd6TFo7Fw:/94hSx1db1Re7EVyfcdVfw
-#EXTINF:-1 tvg-id="269" tvg-logo="" group-title="TATAPLAY",Goodness-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=269
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=BhQ8eTd7UtWMSLTe17AMsw:Wmtl4aZ23mnRwglfSJigFQ
-#EXTINF:-1 tvg-id="272" tvg-logo="" group-title="TATAPLAY",Polimer_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=272
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8yUOPEHZVreIB2avit+mDA:aXBm29itpfFiyc1ifAomcA
-#EXTINF:-1 tvg-id="274" tvg-logo="" group-title="TATAPLAY",V6_News-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=274
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9my8yjKrUembsuPQ+x1VsA:Cet3/yIYPJp4HKJuRPT6WA
-#EXTINF:-1 tvg-id="276" tvg-logo="" group-title="TATAPLAY",Wow_Cinema_One-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=276
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Y/e3U5AGWSeGqvzKpLjlpg:hbw/3jfK0XEHl4EzDIECMg
-#EXTINF:-1 tvg-id="278" tvg-logo="" group-title="TATAPLAY",TEZ-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=278
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=CXa2gH6sXrCHEPi3yPrPrg:Aim+6fC8PHjlRomxbvd2zA
-#EXTINF:-1 tvg-id="283" tvg-logo="" group-title="TATAPLAY",Aastha_Bhajan-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=283
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=YiNlwo/+Wbe9eIwAQdDZew:FzcUYkjmhBFYWiD6kLClng
-#EXTINF:-1 tvg-id="286" tvg-logo="" group-title="TATAPLAY",APN_News-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=286
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=jGLTuF6AWMmyoRIL6V+j5Q:/+DW/9p6EW6oWKscPPtEbQ
-#EXTINF:-1 tvg-id="287" tvg-logo="" group-title="TATAPLAY",Animal_Planet_HD_World-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=287
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=X4qcgmX+W++KxRHJA/o/bQ:69Nsl5h0HyZtotS8hYbc/A
-#EXTINF:-1 tvg-id="288" tvg-logo="" group-title="TATAPLAY",Arihant-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=288
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fDFzdHBfUBiahcvXzux/EA:ytNAGeYEWKGwgT2gldH+0A
-#EXTINF:-1 tvg-id="290" tvg-logo="" group-title="TATAPLAY",Bhakti_TV-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=290
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=tCV4PgqbWh+bgbrbgkyXZA:zu6b9DJnWw9Mh/D1z63NFA
-#EXTINF:-1 tvg-id="292" tvg-logo="" group-title="TATAPLAY",Asianet_HD-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=292
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=/M3/9NmaX4CgxXWZUBPYfA:yPRK8jCxFklC4xkqph+1dA
-#EXTINF:-1 tvg-id="293" tvg-logo="" group-title="TATAPLAY",Asianet_Movies-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=293
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=T1MN9nUSWWqV9azjK4fWyg:N2LHHa8tJ+FBPm8CLKI9mg
-#EXTINF:-1 tvg-id="294" tvg-logo="" group-title="TATAPLAY",Asianet_Plus-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=294
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=Q02Im2ADVJGgQS2jIEcWFg:ygchS9D1ufZCzMiBICbLvw
-#EXTINF:-1 tvg-id="296" tvg-logo="" group-title="TATAPLAY",BFLIX-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=296
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=/jZjOSNCWq2vR2cSWwdwkg:AQDU5mPOoR/0c9qImB0ofQ
-#EXTINF:-1 tvg-id="297" tvg-logo="" group-title="TATAPLAY",Big-Magic-$RepresentationID$-$Number$.m4s
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://yuvraj.fun/tp-qbcde/manifest.mpd/?id=297
 
